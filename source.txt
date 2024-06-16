@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Btu2023V/Rules/release/ruleset/gfw.txt
+https://raw.githubusercontent.com/Btu2023V/Rules/release/ruleset/gfw.list
